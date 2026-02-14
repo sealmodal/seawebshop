@@ -1,6 +1,6 @@
 {
   "name": "seawebshop",
-  "homepage": "https://sealmodal.github.io/seawebpage/home",
+  "homepage": "https://sealmodal.github.io/seawebshop/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,3 +30,4 @@
     "vite": "^7.3.1"
   }
 }
+
